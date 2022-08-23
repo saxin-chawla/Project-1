@@ -1,3 +1,4 @@
+//This Code is written with the help of sharadha didi
 import java.util.*;
 public class advance_pattern {
     public  static  void main(String[] args){
